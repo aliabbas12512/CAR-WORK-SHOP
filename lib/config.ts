@@ -4,8 +4,8 @@
 // button, link and section on the site reads from this file.
 // ─────────────────────────────────────────────────────────────────────────
 
-const RAW_PHONE = "+966 50 123 4567"; // placeholder — replace with real number
-const RAW_WHATSAPP = "+966501234567"; // placeholder — digits only, with country code
+const RAW_PHONE = "+966 58 202 459";
+const RAW_WHATSAPP = "+96658202459";
 
 export const siteConfig = {
   name: "Velocity Auto Werks",
